@@ -1,2 +1,2 @@
-# JS-Bin-Clone
-Inspired by JsBin , I decided to try building a similar one 
+# jsBin_Clone
+A Simple Project to get me Started with GitHub
